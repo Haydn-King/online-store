@@ -15,7 +15,7 @@ function createSessionStore() {
 
 function createSessionConfig() {
   return {
-    secret: "B3dr00m-F0unta1n",
+    secret: "xxxxxxxxx",
     resave: false,
     saveUninitialized: false,
     store: createSessionStore(),
